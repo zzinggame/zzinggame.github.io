@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://zzinggame.github.io/blog</id>
+    <title>WAREZZ Blog</title>
+    <updated>2020-02-21T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://zzinggame.github.io/blog"/>
+    <subtitle>WAREZZ Blog</subtitle>
+    <icon>https://zzinggame.github.io/img/favicon.ico</icon>
+    <rights>It's free real estate! (CC0)</rights>
+    <entry>
+        <title type="html"><![CDATA[Better Get A Seedbox]]></title>
+        <id>Better Get A Seedbox</id>
+        <link href="https://zzinggame.github.io/blog/2020/02/21/better-get-a-seedbox"/>
+        <updated>2020-02-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[BitTorrent is a great technology that has really revolutionized how we share files with one another. It is not, however, a very private technology. Just about everyone in the same swarm as you, can see who you are and what you’re downloading.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maintaining Better Ratio]]></title>
+        <id>Maintaining Better Ratio</id>
+        <link href="https://zzinggame.github.io/blog/2020/02/13/maintaining-better-ratio"/>
+        <updated>2020-02-13T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A good tracker requires you to upload or seed what you download so that the availability never goes down. There are many ways to keep a good ratio.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Choosing the right VPN]]></title>
+        <id>Choosing the right VPN</id>
+        <link href="https://zzinggame.github.io/blog/2020/02/12/choosing-the-right-vpn"/>
+        <updated>2020-02-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[What is the best VPN?]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anonymity while pirating]]></title>
+        <id>Anonymity while pirating</id>
+        <link href="https://zzinggame.github.io/blog/2020/02/08/anonymity-while-pirating"/>
+        <updated>2020-02-08T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Let's get this straight, there is NO way to prevent yourself from being tracked, but these methods should protect you from most anti-piracy organizations as most don't have the legal/technical infrastructure to pursue past things such as VPNs.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WTF is Scene]]></title>
+        <id>WTF is Scene</id>
+        <link href="https://zzinggame.github.io/blog/2020/02/05/wtf-is-scene"/>
+        <updated>2020-02-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Scene aka The Warez Scene is an secretive worldwide network of people who pirate copyright protected products like dvd's, movies, games, software etc. Warez refers primarily to copyrighted material pirated in violation of its copyright license and not to commercial for-profit software counterfeiting.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Movie/TV release names]]></title>
+        <id>Movie/TV release names</id>
+        <link href="https://zzinggame.github.io/blog/2020/02/03/movie-and-tv-release-names"/>
+        <updated>2020-02-03T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Pirated movie release types vary wildly in rarity and quality due to the different sources and methods used for acquiring the video content and time frame of normal release. The sources for pirated copies have often changed with time in response to technology or anti-piracy measures.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Piracy 101]]></title>
+        <id>Piracy 101</id>
+        <link href="https://zzinggame.github.io/blog/2020/01/31/piracy-101"/>
+        <updated>2020-01-31T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Piracy is a vast underworld of skilled, ninja-like hackers who blow up mainframe computers for profit.]]></summary>
+    </entry>
+</feed>

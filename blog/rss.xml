@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>WAREZZ Blog</title>
+        <link>https://zzinggame.github.io/blog</link>
+        <description>WAREZZ Blog</description>
+        <lastBuildDate>Fri, 21 Feb 2020 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <copyright>It's free real estate! (CC0)</copyright>
+        <item>
+            <title><![CDATA[Better Get A Seedbox]]></title>
+            <link>https://zzinggame.github.io/blog/2020/02/21/better-get-a-seedbox</link>
+            <guid>Better Get A Seedbox</guid>
+            <pubDate>Fri, 21 Feb 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[BitTorrent is a great technology that has really revolutionized how we share files with one another. It is not, however, a very private technology. Just about everyone in the same swarm as you, can see who you are and what you’re downloading.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Maintaining Better Ratio]]></title>
+            <link>https://zzinggame.github.io/blog/2020/02/13/maintaining-better-ratio</link>
+            <guid>Maintaining Better Ratio</guid>
+            <pubDate>Thu, 13 Feb 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[A good tracker requires you to upload or seed what you download so that the availability never goes down. There are many ways to keep a good ratio.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Choosing the right VPN]]></title>
+            <link>https://zzinggame.github.io/blog/2020/02/12/choosing-the-right-vpn</link>
+            <guid>Choosing the right VPN</guid>
+            <pubDate>Wed, 12 Feb 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[What is the best VPN?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Anonymity while pirating]]></title>
+            <link>https://zzinggame.github.io/blog/2020/02/08/anonymity-while-pirating</link>
+            <guid>Anonymity while pirating</guid>
+            <pubDate>Sat, 08 Feb 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[Let's get this straight, there is NO way to prevent yourself from being tracked, but these methods should protect you from most anti-piracy organizations as most don't have the legal/technical infrastructure to pursue past things such as VPNs.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[WTF is Scene]]></title>
+            <link>https://zzinggame.github.io/blog/2020/02/05/wtf-is-scene</link>
+            <guid>WTF is Scene</guid>
+            <pubDate>Wed, 05 Feb 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[The Scene aka The Warez Scene is an secretive worldwide network of people who pirate copyright protected products like dvd's, movies, games, software etc. Warez refers primarily to copyrighted material pirated in violation of its copyright license and not to commercial for-profit software counterfeiting.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Movie/TV release names]]></title>
+            <link>https://zzinggame.github.io/blog/2020/02/03/movie-and-tv-release-names</link>
+            <guid>Movie/TV release names</guid>
+            <pubDate>Mon, 03 Feb 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[Pirated movie release types vary wildly in rarity and quality due to the different sources and methods used for acquiring the video content and time frame of normal release. The sources for pirated copies have often changed with time in response to technology or anti-piracy measures.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Piracy 101]]></title>
+            <link>https://zzinggame.github.io/blog/2020/01/31/piracy-101</link>
+            <guid>Piracy 101</guid>
+            <pubDate>Fri, 31 Jan 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[Piracy is a vast underworld of skilled, ninja-like hackers who blow up mainframe computers for profit.]]></description>
+        </item>
+    </channel>
+</rss>
